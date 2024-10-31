@@ -22,6 +22,11 @@
 		{
 			"Name": "USDImporter",
 			"Enabled": true
+		},
+		{
+			"Name": "MatBatchUEr",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/de32e6a9d9fa491bb1ed3f49465a8063"
 		}
 	]
 }
