@@ -72,5 +72,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/__ExternalActors__/Maps/bunker2/1/0l/L9NLSP9CELVOQL7QJDMGFJ.uasset
-Content/__ExternalActors__/Maps/bunker2/D/VA/SIM7KHKHB9D202XZDBWID1.uasset
+#Content/__ExternalActors__/Maps/bunker2/1/0l/L9NLSP9CELVOQL7QJDMGFJ.uasset
+#Content/__ExternalActors__/Maps/bunker2/D/VA/SIM7KHKHB9D202XZDBWID1.uasset
